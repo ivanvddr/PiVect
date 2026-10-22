@@ -21,7 +21,7 @@ To build the project, you will need the following components:
 
  - Audio:
     - MAX98357 amplifier.
-          <br/><img width="231" height="263" alt="image" src="https://github.com/user-attachments/assets/4f86d3c9-f9d2-4ae1-8794-f0e945c66b05" />
+          <br/><img width="231" height="231" alt="image" src="https://github.com/user-attachments/assets/7d0264ac-8058-4daf-ae16-1d583d8d29f8" />
 
     - 3W / 4–8Ω speaker
           <br/><img width="300" height="300" alt="speaker" src="https://github.com/user-attachments/assets/8fcebdf6-4df0-4d92-b6e8-447f233d5c6f" />
