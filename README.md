@@ -93,6 +93,10 @@ If you notice graphical glitches, reduce SPI frequency to 40–50MHz.
 # 📂 Software Setup
 
 The project is developed for Arduino IDE using the RP2040 core.<br/> 
+
+## Bios
+The software requires the original Vectrex BIOS. Due to copyright reasons, it is not possible to include the BIOS in the project. If you obtain or already possess a copy of the BIOS (typically `exec_rom.bin`, 8 KB), you must save it as a `const uint8_t rom_bios[]` array in the `rom_bios.h` file, while also ensuring that its size is defined using `const size_t rom_bios_len = sizeof(rom_bios);`.
+
 ## Required Libraries
 
 Make sure you have installed:<br/> 
